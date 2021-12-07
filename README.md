@@ -9,3 +9,6 @@
 5.  Redirections, Quotes, Exit States
 6.  Conditions
 7.  Loops
+
+# Good luck with shell scripting
+
